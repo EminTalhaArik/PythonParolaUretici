@@ -1,5 +1,4 @@
 # PythonParolaUretici
-Bu proje Bir Alaylı Coder instagram hesabı için yapılmıştır.
 
 Proje Anaconda Araçları/ Spyder kullanarak yazılmıştır.
 
